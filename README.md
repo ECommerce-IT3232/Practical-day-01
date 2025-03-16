@@ -51,20 +51,20 @@ Design a Student class with properties like name and marks. Then, create 5 stude
 ```bash
   Example: 
 
-  Name: Ruwini
-  Average of Ruwini is: 70.66666666666667
+  Name: Kamal
+  Average of Kamal is: 70.66666666666667
   ----------------------------------------
-  Name: Hiruni
-  Average of Hiruni is: 62.0
+  Name: Amal
+  Average of Amal is: 62.0
   ----------------------------------------
-  Name: Nazik
-  Average of Nazik is: 58.0
+  Name: Kumara
+  Average of Kumara is: 58.0
   ----------------------------------------
-  Name: Janani
-  Average of Janani is: 95.0
+  Name: Nalaka
+  Average of Nalaka is: 95.0
   ----------------------------------------
-  Name: Arvin
-  Average of Arvin is: 75.66666666666667
+  Name: Sanath
+  Average of Sanath is: 75.66666666666667
   ----------------------------------------
 ```
 
